@@ -1,1 +1,1 @@
-Write one positive test for each calculator method.
+Write one positive test for each calculator method..
